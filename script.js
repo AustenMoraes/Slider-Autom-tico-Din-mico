@@ -36,7 +36,7 @@ function run() {
 
 function resetInterval() {
   clearInterval(interval)
-  interval = setInterval(run, 2200)
+  interval = setInterval(run, 2850)
 }
 
 function changeImage() {
