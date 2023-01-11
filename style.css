@@ -46,10 +46,11 @@ body {
   height: 20px;
   border-radius: 50%;
   cursor: pointer;
+  opacity: 0.7;
 }
 
 .item.active {
-  background-color: #050401;
+  opacity: 1;
 }
 
 .buttons-container {
